@@ -1,6 +1,5 @@
-<h1>Shell Commands</h1>
-
-The directory for shell commands
+<h1>First Come First Served Algorithm in C</h1>
+This is an algorithm illustrating the first come first served CPU scheduling algorithm in C.
 
 <center><h3>Group members</h3></center>
 <ul>
